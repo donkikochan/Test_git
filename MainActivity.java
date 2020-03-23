@@ -12,4 +12,8 @@ public class MainActivity extends ReactActivity {
   protected String getMainComponentName() {
     return "mVerify_ReactNative_POC";
   }
+
+  public void hola(){
+  	
+  }
 }
