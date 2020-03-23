@@ -14,6 +14,6 @@ public class MainActivity extends ReactActivity {
   }
 
   public void hola(){
-  	
+  	print("hola");
   }
 }
